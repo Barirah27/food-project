@@ -64,9 +64,6 @@ html {
 
 #navbar ul li a:hover {
     color: black;
-    background-color: white;
-    transition: color 1s ease-out .2s ,
-        background-color 1s ease-out .2s;
 }
 
 /* Home Section */
